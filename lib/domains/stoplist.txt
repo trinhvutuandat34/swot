@@ -207,7 +207,7 @@ bese.ac.cn
 bfgi.edu.in
 bfsu.edu.cn
 bh.knu.ac.kr
-bible.ac.kr
+staff.bible.ac.kr
 bii.ac
 bishanoi.net
 bit-edu.hu
@@ -774,7 +774,6 @@ office365.nkust.edu.tw
 office365.nptu.edu.tw
 office365.npust.edu.tw
 office365.ukw.edu.pl
-ogr.ktu.edu.tr
 ogrenci.nny.edu.tr
 online.gaf.ni.ac.rs
 online.medfak.ni.ac.rs
@@ -1226,3 +1225,12 @@ zucc.edu.cn
 zuel.edu.cn
 zuj.edu.jo
 zut.edu.cn
+aitmatov.edu.kg
+ucci.edu.ky
+mail.hut.edu.pa
+openuniversity.ac.tz
+esenviseu.net
+aoa.edu.tr
+ms365.kangwon.ac.kr
+bbs-schueler.de
+unand.ac.id
