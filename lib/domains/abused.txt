@@ -46,7 +46,6 @@ udivirtual.com.bo
 utecnologica.edu.bo
 aluno.multivix.edu.br
 aluno.newtonpaiva.br
-estacio.br
 sempreunama.com.br
 sempreunijuazeiro.com.br
 sempreuninassau.com.br
@@ -216,7 +215,6 @@ cotcmail.cotc.edu
 cougars.csusm.edu
 cpcc.edu
 cwru.edu
-dartmouth.edu
 davidsonccc.edu
 daytonastate.edu
 deltacollege.edu
@@ -342,7 +340,6 @@ rhodesstate.edu
 riohondo.edu
 roxbury.edu
 rstc.edu
-rutgers.edu
 sacsites.csus.edu
 sanjuancollege.edu
 sbcc.edu
@@ -369,7 +366,6 @@ stu.parkland.edu
 stu.templejc.edu
 stu.trenholmstate.edu
 student.angelina.edu
-student.annauniv.edu
 student.bccc.edu
 student.butte.edu
 student.centralia.edu
@@ -506,9 +502,6 @@ zu.edu.eg
 email
 siswa.email
 acarballeira.es
-alu.uma.es
-alum.uca.es
-alum.us.es
 alumnos.uvigo.es
 campus.eug.es
 ceuandalucia.es
@@ -518,8 +511,6 @@ educastur.es
 mail.uca.es
 mail.ucv.es
 stu.colegiotorremalmuerta.es
-uma.es
-usal.es
 amu.edu.et
 haramaya.edu.et
 edu.sorbonne-paris-nord.fr
@@ -532,7 +523,6 @@ mancheopenschool.fr
 univ-caen.fr
 viacesi.fr
 dnmd.fun
-atsu.edu.ge
 mjj.edu.ge
 mziuri.edu.ge
 students.gov.ge
@@ -560,7 +550,6 @@ vict.edu.ht
 o365.u-szeged.hu
 unibge.hu
 belajar.id
-binus.ac.id
 ecampus.ut.ac.id
 fh.unair.ac.id
 kings.ac.id
@@ -656,7 +645,6 @@ mail.dream.edu.kg
 powerbi.edu.kg
 itc.edu.kh
 rule.edu.kh
-rupp.edu.kh
 bbu.edu.kh
 water.itc.edu.kh
 itc.edu.khmoestudents.edu.kn
@@ -864,12 +852,8 @@ portal.uni.edu.ni
 uraccan.edu.ni
 ninja
 zhaoqian.ninja
-commanderijcollege.nl
 eur.nl
-obcnet.nl
-obszeester.nl
 student.scalda.nl
-ubboemmius.nl
 kodeklubbenflaa.no
 fwu.edu.np
 nou.edu.np
@@ -923,7 +907,6 @@ upsjb.edu.pe
 usmp.pe
 utp.edu.pe
 batstate-u.edu.ph
-calamba.sti.edu.ph
 csu.ph
 deped.gov.ph
 dlsud.edu.ph
@@ -980,10 +963,9 @@ web.gcu.edu.pk
 jedynka.zgora.pl
 kwiatek365.pl
 stonabemowie.edu.pl
-stud.ur.edu.pl
-uni.opole.pl
 uwarsaw.edu.pl
 rawafed.edu.ps
+dc.uba.ar
 rb.edu.ps
 students.ptuk.edu.ps
 aealcochete.edu.pt
@@ -1100,7 +1082,6 @@ esprims.tn
 insat.u-carthage.tn
 issatm.u-carthage.tn
 myu.universitecentrale.tn
-akdeniz.edu.tr
 alum.bogazici.edu.tr
 bahcesehir.edu.tr
 boun.edu.tr
@@ -1290,7 +1271,6 @@ yapenhasbekasi.sch.id
 cibertec.edu.pe
 singimail.rs
 edu.hanbat.ac.kr
-harding.edu
 ufpa.br
 univ-dbkm.dz
 nuevoleon.tecnm.mx
@@ -1335,7 +1315,6 @@ sdu.ac.kr
 amu.edu.pl
 lausd.net
 cbit.org.in
-osloskolen.no
 skhu.ac.kr
 eshte.pt
 o6u.edu.eg
@@ -1359,7 +1338,6 @@ mokwon.ac.kr
 educacionbogota.edu.co
 deltauniv.edu.eg
 ulht.pt
-dgu.ac.kr
 cefet-rj.br
 poltera.ac.id
 gujgov.edu.in
@@ -1459,14 +1437,12 @@ dharuma.edu.mv
 kag-erding.de
 sfcollege.edu
 utcancun.edu.mx
-alunos.estacio.br
 aluno.uniasselvi.com.br
 uinjkt.ac.id
 edu.pa.senac.br
 vpt.edu.in
 sfsu.edu
 staff.kaywon.ac.kr
-uqconnect.edu.au
 morningside.edu
 faculdadecdl.edu.br
 akesu.org
@@ -1512,7 +1488,6 @@ umak.edu.ph
 naa.edu.az
 usat.pe
 udb.edu.sv
-vut.cz
 kmu.kr
 ulatina.net
 std-zuj.edu.jo
@@ -1902,3 +1877,25 @@ bible.ac.kr
 wrdsb.ca
 alumni.deccansociety.org
 eab.tsu.edu.ge
+yu.edu.sa
+acoe.edu.in
+acet.ac.in
+urse.edu.mx
+itismajo.school
+hlu.edu.vn
+tlu.edu.vn
+unj.ac.id
+upt.pe
+estudiantes.cucea.udg.mx
+bolyai-szakkozep.hu
+futo.edu.ng
+istx.edu.ec
+lincoln.edu.my
+mitid.edu.in
+krmu.edu.in
+aec.edu.in
+unicuc.mx
+bue.edu.eg
+cmb.ac.lk
+mydev.uome.ch
+member.scau.ac.kr
